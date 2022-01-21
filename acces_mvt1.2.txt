@@ -209,3 +209,24 @@ repository_name :  mon_nouvel_article
 
 
 HTTPS : https://github.com/Williantagain/mon_nouvel_article.git
+
+
+
+
+--------------
+
+
+(venv) Willian-Tagain:POO-PYTHON-DJANGO3 admin$ git config --global user.name "admin"
+(venv) Willian-Tagain:POO-PYTHON-DJANGO3 admin$ git config --global user.email williantagain@gmail.com
+(venv) Willian-Tagain:POO-PYTHON-DJANGO3 admin$ git status
+
+-----------------------
+
+
+(presitechcube.pythonanywhere.com) 17:11 ~/presitechcube.pythonanywhere.com (master)$ python manage.py createsuperuser
+Nom d’utilisateur (leave blank to use 'presitechcube'):
+Adresse électronique: williantagain@gmail.com
+Password:
+Password (again):
+Superuser created successfully.
+(presitechcube.pythonanywhere.com) 17:12 ~/presitechcube.pythonanywhere.com (master)$
